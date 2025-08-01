@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/hexagonal-game-publish/static/css/main.20430ea0.css",
-    "main.js": "/hexagonal-game-publish/static/js/main.4c73f803.js",
+    "main.js": "/hexagonal-game-publish/static/js/main.5941d1bf.js",
     "static/js/453.07eadfd5.chunk.js": "/hexagonal-game-publish/static/js/453.07eadfd5.chunk.js",
     "index.html": "/hexagonal-game-publish/index.html",
     "main.20430ea0.css.map": "/hexagonal-game-publish/static/css/main.20430ea0.css.map",
-    "main.4c73f803.js.map": "/hexagonal-game-publish/static/js/main.4c73f803.js.map",
+    "main.5941d1bf.js.map": "/hexagonal-game-publish/static/js/main.5941d1bf.js.map",
     "453.07eadfd5.chunk.js.map": "/hexagonal-game-publish/static/js/453.07eadfd5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.20430ea0.css",
-    "static/js/main.4c73f803.js"
+    "static/js/main.5941d1bf.js"
   ]
 }
