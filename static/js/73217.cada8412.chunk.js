@@ -1,3 +1,0 @@
-/*! For license information please see 73217.cada8412.chunk.js.LICENSE.txt */
-"use strict";(self.webpackChunkhexagonal_game=self.webpackChunkhexagonal_game||[]).push([[73217],{73217:(e,a,s)=>{s.r(a),s.d(a,{__iconNode:()=>c,default:()=>n});var t=s(81074);const c=[["path",{d:"m20 17-5-5 5-5",key:"30x0n2"}],["path",{d:"m4 17 5-5-5-5",key:"16spf4"}]],n=(0,t.A)("chevrons-right-left",c)},81074:(e,a,s)=>{s.d(a,{A:()=>r});var t=s(65043),c=s(66761),n=s(48825);const r=(e,a)=>{const s=(0,t.forwardRef)((s,r)=>{let{className:l,...d}=s;return(0,t.createElement)(n.A,{ref:r,iconNode:a,className:(0,c.zP)(`lucide-${(0,c.fX)((0,c.MX)(e))}`,`lucide-${e}`,l),...d})});return s.displayName=(0,c.MX)(e),s}}}]);
-//# sourceMappingURL=73217.cada8412.chunk.js.map
