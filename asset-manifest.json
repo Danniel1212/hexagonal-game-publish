@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/hexagonal-game-publish/static/css/main.3e6602fc.css",
+    "main.js": "/hexagonal-game-publish/static/js/main.bcef09e2.js",
+    "static/js/453.07eadfd5.chunk.js": "/hexagonal-game-publish/static/js/453.07eadfd5.chunk.js",
+    "static/media/Lobby.mp3": "/hexagonal-game-publish/static/media/Lobby.bacf337d73a03a67a5d3.mp3",
+    "static/media/logotwo.png": "/hexagonal-game-publish/static/media/logotwo.691c8c1ac2fdd5bcc2da.png",
+    "static/media/Morfeo_entryLine.mp3": "/hexagonal-game-publish/static/media/Morfeo_entryLine.e6a094e4b989325d66f6.mp3",
+    "static/media/Ra_entryLine.mp3": "/hexagonal-game-publish/static/media/Ra_entryLine.ad61f86ebdf0967b2e40.mp3",
+    "static/media/Shiva_entryLine.mp3": "/hexagonal-game-publish/static/media/Shiva_entryLine.f95dba304622f8e15551.mp3",
+    "static/media/Leonidas_entryLine.mp3": "/hexagonal-game-publish/static/media/Leonidas_entryLine.9b11e2fa7b4a8ce9b6a4.mp3",
+    "static/media/Werewolf_entryLine.mp3": "/hexagonal-game-publish/static/media/Werewolf_entryLine.a08f08e249eb6c78b0e0.mp3",
+    "static/media/Indra_entryLine.mp3": "/hexagonal-game-publish/static/media/Indra_entryLine.c8237982676455d70f2e.mp3",
+    "static/media/ReyArturo_entryLine.mp3": "/hexagonal-game-publish/static/media/ReyArturo_entryLine.4cb3332bb52b0be22621.mp3",
+    "static/media/Atlas_entryLine.mp3": "/hexagonal-game-publish/static/media/Atlas_entryLine.e6017d6755f312fe7e39.mp3",
+    "static/media/HattoriHanzo_entryLine.mp3": "/hexagonal-game-publish/static/media/HattoriHanzo_entryLine.510045a5ad16857747c8.mp3",
+    "static/media/Hercules_entryLine.mp3": "/hexagonal-game-publish/static/media/Hercules_entryLine.5156e91330becb480900.mp3",
+    "static/media/ArcangelRafael_entryLine.mp3": "/hexagonal-game-publish/static/media/ArcangelRafael_entryLine.fa044ab0e6eb1bdd468c.mp3",
+    "static/media/IxChel_entryLine.mp3": "/hexagonal-game-publish/static/media/IxChel_entryLine.17d483587e641f9877bc.mp3",
+    "static/media/Skadi_entryLine.mp3": "/hexagonal-game-publish/static/media/Skadi_entryLine.208212ffc0fe1f88fc73.mp3",
+    "index.html": "/hexagonal-game-publish/index.html",
+    "main.3e6602fc.css.map": "/hexagonal-game-publish/static/css/main.3e6602fc.css.map",
+    "main.bcef09e2.js.map": "/hexagonal-game-publish/static/js/main.bcef09e2.js.map",
+    "453.07eadfd5.chunk.js.map": "/hexagonal-game-publish/static/js/453.07eadfd5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3e6602fc.css",
+    "static/js/main.bcef09e2.js"
+  ]
+}
